@@ -15,3 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
+# Ignor IDE files
+.idea/*
